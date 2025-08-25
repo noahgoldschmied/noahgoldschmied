@@ -1,5 +1,5 @@
-# Hi, I'm Noah!
-I'm happy you're looking at my profile! Take a scroll through it to learn some more about me and some of my accomplishments!
+# Hi, I'm Noah
+I'm happy you're looking at my profile. Take a scroll through it to learn more about me and some of my accomplishments.
 
 ## About me
 <ul>
